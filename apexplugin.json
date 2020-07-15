@@ -1,11 +1,11 @@
 {
-  "name" : "Client-Side Validation Pro",
+  "name" : "Image Uploader Pro",
   "version" : "20.1",
-  "description" : "Give users instant feedback that values are entered correctly or if errors occurred, without writing a single line of code. Client-side Validation Pro will execute the validations defined in the processing section, on request. No more duplicating code to give users instant feedback!",
-  "keywords" : ["validation","client"],
+  "description" : "Image Uploader Pro is an enhanced Dropzone plug-in that makes it easy to process or convert media quickly before it is stored in the Oracle Database. You can resize images, rotate and flip images, crop images, get image information (width, height, mime type, ...), and much more….",
+  "keywords" : ["images","dropzone","upload"],
   "homepage" : "https://www.plug-ins-pro.com/",
   "bugs" : {
-    "url" : "https://github.com/plug-ins-pro/client_side_validation_pro/issues",
+    "url" : "https://github.com/plug-ins-pro/image_uploader_pro/issues",
     "email" : "support@plug-ins-pro.com"
   },
   "license" : "Commercial",
@@ -17,17 +17,17 @@
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/plug-ins-pro/client_side_validation_pro"
+    "url" : "https://github.com/plug-ins-pro/image_uploader_pro"
   },
  "oracle" : {
-    "versions" : ["11.2.0.1", "12.x", "18.x", "19.x"],
+    "versions" : ["11.2.0.1", "12.1", "12.2", "18.1", "18.2", "18.3", "19.1"],
     "apex" : {
       "versions" : ["18.1.0", "18.2.0", "19.1.0", "19.2.0", "20.1.0"],
       "plugin" : {
-        "internalName" : "UNITEDCODES_CLIENT_SIDE_VALIDATION",
-        "type" : "dynamic action",
-        "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/client_side_validation_pro/home",
-        "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/467/files/static/v32/home_promo.gif"
+        "internalName" : "UNITEDCODES_IMAGE_UPLOADER",
+        "type" : "region",
+        "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/image_uploader_pro/home",
+        "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/467/files/static/v32/upload_watermark.gif"
       }
     }
   }
