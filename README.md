@@ -1,7 +1,7 @@
-# Client-side Validation Pro
+# Image Uploader Pro
 Plug-in for Oracle Application Express (APEX) by United Codes
 
-Give users instant feedback that values are entered correctly or if errors occurred, without writing a single line of code. Client-side Validation Pro will execute the validations defined in the processing section, on request. No more duplicating code to give users instant feedback!
+Image Uploader Pro is an enhanced Dropzone plug-in that makes it easy to process or convert media quickly before it is stored in the Oracle Database. You can resize images, rotate and flip images, crop images, get image information (width, height, mime type, ...), and much more….
 
 ### More info
 
