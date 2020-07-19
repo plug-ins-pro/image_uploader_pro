@@ -22,7 +22,7 @@
  "oracle" : {
     "versions" : ["11.2.0.1", "12.1", "12.2", "18.1", "18.2", "18.3", "19.1"],
     "apex" : {
-      "versions" : ["18.1", "18.2", "19.1", "19.2", "20.1"],
+      "versions" : ["18.1.0", "18.2.0", "19.1.0", "19.2.0", "20.1.0"],
       "plugin" : {
         "internalName" : "UNITEDCODES_IMAGE_UPLOADER",
         "type" : "region",
